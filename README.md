@@ -50,14 +50,3 @@
   <a href="https://vercel.com/" target="_blank"><img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
-
----
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haya-alhosain&show_icons=true&theme=tokyonight" alt="haya-alhosain stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=haya-alhosain&theme=tokyonight" alt="haya-alhosain streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya-alhosain&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
