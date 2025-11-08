@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haya Alhosain</h1>
 <h3 align="center">Full Stack Next.js Developer — Passionate about Web Performance, Clean Architecture, and UI/UX</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haya-alhosain&label=Profile%20Views&color=0e75b6&style=flat" alt="haya-alhosain" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haya-alhosain&theme=onedark&margin-w=8&margin-h=8" alt="haya-alhosain" />
-  </a>
-</p>
-
 ---
 
 - 💻 I’m a **Full Stack Next.js Developer** focused on performance and user experience  
