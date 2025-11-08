@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Haya Alhosain  
 
-<!--
-**haya-alhosain/haya-alhosain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Next.js Developer** passionate about **web performance**, **clean architecture**, and **UI/UX design**.  
+🤝 Open to collaboration, new ideas, and meaningful projects that make the web faster and more beautiful.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+- 🚀 Love crafting scalable and elegant web apps using **Next.js**, **React**, and **Node.js**  
+- 🎨 Focused on creating seamless **user experiences** with clean and maintainable code  
+- 🧩 Always exploring better ways to optimize performance and architecture  
+- 🌍 Based in **Damascus**  
+- ⏰ Local time: **12:05 (UTC -12:00)**  
+
+---
+
+### 🌐 Connect With Me  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-haya--alhosain.vercel.app-000?style=for-the-badge&logo=vercel)](https://haya-alhosain.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fhaya--alhosain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haya-alhosain)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1cjhqgb9gj/?mibextid=wwXIfr)  
+[![Telegram](https://img.shields.io/badge/Telegram-%40Haya__Alhosain-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Haya_Alhosain)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963969548264)  
+
+---
+
+### 🛠️ Tech Stack  
+
+#### Frontend  
+Next.js · React · TypeScript · TailwindCSS · Redux · HTML · CSS · JavaScript  
+
+#### Backend  
+Node.js · Express · MongoDB · REST APIs  
+
+#### Tools & Workflow  
+Git · GitHub · Vercel · Figma · VS Code  
+
+---
+
+### 📈 GitHub Stats  
+
+![Haya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haya-alhosain&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haya-alhosain&layout=compact&theme=tokyonight)
