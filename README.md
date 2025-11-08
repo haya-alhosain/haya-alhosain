@@ -34,10 +34,3 @@ Node.js · Express · MongoDB · REST APIs
 
 #### Tools & Workflow  
 Git · GitHub · Vercel · Figma · VS Code  
-
----
-
-### 📈 GitHub Stats  
-
-![Haya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haya-alhosain&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haya-alhosain&layout=compact&theme=tokyonight)
