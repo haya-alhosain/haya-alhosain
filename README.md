@@ -6,8 +6,6 @@
 - 💻 I’m a **Full Stack Next.js Developer** focused on performance and user experience  
 - 🧠 Currently learning **advanced React patterns and design systems**  
 - 🤝 Open to collaborating on **UI/UX-driven web projects**  
-- 🌍 Based in **Damascus**  
-- 🌸 Pronouns: **She/Her**  
 - 🖥️ Portfolio: [haya-alhosain.vercel.app](https://haya-alhosain.vercel.app/)  
 - 💬 Ask me about **frontend architecture, performance optimization, and design systems**  
 - 📫 How to reach me: **[Telegram](https://t.me/Haya_Alhosain)** | **[WhatsApp](https://wa.me/963969548264)**  
